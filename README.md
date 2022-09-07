@@ -2,8 +2,7 @@
 - 📚 I’m Data science student at college of engineering - UNER
 - 🌱 I’m currently learning python, R and everything about data science.
 - 🧉 In my free time i like read comics, horror novels and play videogames
-- 📫 How to reach me: <br>
-<a href = "mailto:enzoruizdiaz10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 📫 How to reach me: enzoruizdiaz10@gmail.com <br>
   <a href="https://www.linkedin.com/in/enzo-ruiz-diaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
